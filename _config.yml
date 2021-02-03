@@ -1,3 +1,4 @@
+theme: jekyll-theme-researcher
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
@@ -22,5 +23,3 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-
-remote_theme: ankitsultana/researcher@gem
