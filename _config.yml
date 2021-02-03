@@ -1,8 +1,8 @@
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: hmrug
+url: "https://hmrug.github.io/"
+baseurl: "/hmrug.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
