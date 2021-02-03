@@ -1,4 +1,5 @@
-theme: jekyll-theme-researcher
+remote_theme: ankitsultana/researcher
+
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
