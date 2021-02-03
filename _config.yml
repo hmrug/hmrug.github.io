@@ -2,7 +2,6 @@ remote_theme: ankitsultana/researcher@gem
 
 title: hmrug
 url: "https://hmrug.github.io/"
-baseurl: "/hmrug.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
