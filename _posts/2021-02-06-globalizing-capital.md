@@ -7,7 +7,7 @@ categories: books
 ---
 **Amazon**: [Globalizing Capital: A History of the International Monetary System - Third Edition](https://www.amazon.com/Globalizing-Capital-History-International-Monetary/dp/0691193908)
 
-Hubert's **rating**: 5/5
+**Rating**: 5/5
 
 **Comments**: International monetary system of 20th century in one book. From bimetallsm to post-2008.
 

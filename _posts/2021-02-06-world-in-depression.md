@@ -8,7 +8,7 @@ categories: books
 
 **Amazon**: [The World in Depression, 1929–1939](https://www.amazon.com/World-Depression-1929-1939-Charles-Kindleberger/dp/0520275853)
 
-Hubert's **rating**: 5/5
+Hubert's **Rating**: 5/5
 
 **Comments**: The master of international macroeconomics, Prof. Charlie, explains the Great Depression in historical lenses. He draws on his expertise in international capital flows and explains functioning of money markets, economic misalignments in commodity markets, relationships between leading central bankers on the international scene and much much more.
 

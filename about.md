@@ -6,19 +6,19 @@ permalink: /about/
 
 Hi there!
 
-[//]: <> (This is also a comment.)
+I'm Hubert Mrugala. Currently, I pursue a master's degree in finance at University of Zurich. When I don't study I read, write or play chess. I'm pretty nerdy when it comes to monetary economics and often seem to hold contrarian opinions.
 
-I'm Hubert Mrugala, pursue a master's degree in finance at University of Zurich.
+Here, on this blog, you're most likely to see my thoughts on (history of) **global monetary system, international economics, business cycles, financial markets and philosophy**. Since it's just a regular personal blog, you may also see some posts that don't pertain to any of the mentioned topics (category: [misc]({{ site.url }}/categories/misc/)).
 
-Here, on this blog, you're most likely to see my thoughts on (history of) international monetary system, international economics, business cycles, financial markets and philosophy. Since it's just a regular personal blog, you may also see some post that don't pertain to any of the mentioned topics (category: misc). I also share some of my book notes (category: books) that I take to systematize and deepen my own understanding.
+I also share some of my **book notes** (category: [books]({{ site.url }}/notes)) that I take to systematize and deepen my own understanding of how things actually work. If you like the idea of book notes but don't find anything interesting on this blog you can check out summaries created by [Derek Sivers](https://sive.rs/book) or [James Clear](https://jamesclear.com/book-summaries).
 
-If you're interested in global banking and money markets, please check out the other project that I founded, where we break down the modern monetary system 
+Lastly, if you're interested in global banking and money markets, please check out **the other project that I founded -- [...](link)**, where we break down the contemporary money markets, central banking, the eurodollar system and analyze the business cycle.
 
-{:refdef: style="text-align: center;"}
-![me]({{ site.baseimg }}/assets/picture.jpg)
-{: refdef}
+[comment: picture]: <> ({:refdef: style="text-align: center;"} ![me]({{ site.baseimg }}/assets/picture.jpg) {: refdef})
 
 ### Contact and Social Media
+
+If you have any questions regarding my writings, feel free to reach me out. Feedback highly appreciated.
 
 [Email](mailto:hubert@mrugala@mailbox.org)
 
@@ -26,6 +26,5 @@ If you're interested in global banking and money markets, please check out the o
 
 [LinkedIn](https://www.linkedin.com/in/hmrug/)
 
-
-If for some reason you'd like to see my curcium vitae, you can read it [here]({{ site.url }}/assets/wp11190.pdf).
+[comment: pdf]: <> ( [here]({{ site.url }}/assets/wp11190.pdf) )
 
